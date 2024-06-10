@@ -1,3 +1,5 @@
+[
+ {
 { question: "ا ل ظ ل ا م", answer: "الظلام" },
   { question: "ا ل س ع ا د ة", answer: "السعادة" },
   { question: "ا ل ث ر و ة", answer: "الثروة" },
@@ -53,3 +55,5 @@
   { question: "ا ل ق ب ح", answer: "القبح" },
   { question: "ا ل ن ق ص", answer: "النقص" },
   { question: "ا ل ح ز ن", answer: "الحزن" },
+  }
+]
